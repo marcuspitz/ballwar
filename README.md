@@ -10,3 +10,7 @@ Client side to game kernel and DOM fast manipulation, i/e WebSockets clients.
 
 ## NodeJS + WebSockets
 Server side to multiplayer and other features
+
+
+# References
+https://reactjs.org/docs/react-component.html
